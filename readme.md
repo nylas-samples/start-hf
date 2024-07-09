@@ -47,4 +47,4 @@ You can now play with the model by modifying the `prompt` constant in `index.js`
 
 # Repo activity
 
-![Repo activity](https://repobeats.axiom.co/api/embed/043776dc1ca8fe5d88c5a0ab53267d28e7e7a821.svg "Repobeats analytics image")
+![Repo activity](https://repobeats.axiom.co/api/embed/043776dc1ca8fe5d88c5a0ab53267d28e7e7a821.svg "Repo activity")
